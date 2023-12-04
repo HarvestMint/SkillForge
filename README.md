@@ -16,4 +16,4 @@ Feel free to explore, provide feedback, or even draw inspiration for your coding
 
 Resource Links:
 
-- https://github.com/florinpop17/app-ideas/tree/08b771c8632d04c0d011f2600afcf2e44689918f/Projects/1-Beginner
+<https://github.com/florinpop17/app-ideas/tree/08b771c8632d04c0d011f2600afcf2e44689918f/Projects/1-Beginner>
